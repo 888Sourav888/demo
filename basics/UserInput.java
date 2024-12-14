@@ -2,7 +2,7 @@ package basics;
 
 import java.util.Scanner;
 
-public class userinput {
+public class UserInput {
     public static void main(String[] args) {
 
         // showing the difference between println and print
