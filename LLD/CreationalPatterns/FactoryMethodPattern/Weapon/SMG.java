@@ -1,4 +1,4 @@
-package LLD.FactoryMethodPattern.Weapon;
+package LLD.CreationalPatterns.FactoryMethodPattern.Weapon;
 
 public class SMG implements Weapon {
 
