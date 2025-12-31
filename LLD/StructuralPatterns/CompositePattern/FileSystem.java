@@ -1,5 +1,6 @@
 package LLD.StructuralPatterns.CompositePattern;
 
-public class FileSystem {
-    
+public interface FileSystem {
+    int getSize();
+    void displayStructure(String indent);
 }
